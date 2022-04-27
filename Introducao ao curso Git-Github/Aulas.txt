@@ -1,4 +1,16 @@
 Iniciando pela instalação do programa
 Link: https://git-scm.com/downloads
 
-O que é o Git?
+
+Git Bash-Comandos Iniciais
+
+Crie uma conta no Github.
+
+Abrir Git bash na pasta onde esta seu arquivo para o local já aparecer no Bash.Através do mouse
+clicando com lado direito,vá na opção here Git Bash.
+
+
+
+
+
+
