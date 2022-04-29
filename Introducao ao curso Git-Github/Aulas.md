@@ -18,8 +18,8 @@
  ## >-2
 
       Abrir Git bash na pasta onde esta seu arquivo para o local já aparecer no git Bash.
-      Através do mouse clicando com lado direito,vá na opção here Git Bash.
-      Comando git clone e copie o link do github do seu repositório.
+      Através do mouse clicando com lado direito,vá na opção here Git Bash.Digite
+      comando git clone e copie o link do github do seu repositório.
 
 
  ## >-3
@@ -32,12 +32,13 @@
  ## >-4
 
       Comando git push origin main envia todos os arquivos
-      para nuvem.
+      para nuvem,no caso sua conta no Github.
 
 
  ## >-5
       
       Tela poluida com muitas informações,comando crl+l da um clear no rastro dos processos.
+      
 
 
  ## >-6
@@ -48,6 +49,12 @@
  ## >-7
 
       Git log exibe informações como Autor,data de modificação etc.
+
+
+
+       Material completo sobre Git e Github
+    
+   # Link: https://www.dio.me/articles/introducao-ao-git-e-ao-github-material-curso-dio
  
 
 
