@@ -16,6 +16,8 @@ no processo com git commit -m "Insere o comentário".
 ##5- Comando git push origin main envia todos os arquivos
 para nuvem.
 
+##6- Tela poluida com muitas informações,comando crl+l da um clear no rastro dos processos
+
 
 
 
