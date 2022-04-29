@@ -2,18 +2,18 @@ Iniciando pela instalação do programa
 Link: https://git-scm.com/downloads
 
 
-Git Bash-Comandos Iniciais
+##Git Bash-Comandos Iniciais
 
-Crie uma conta no Github.
+##1- Crie uma conta no Github.
 
-Abrir Git bash na pasta onde esta seu arquivo para o local já aparecer no Bash.Através do mouse
+##2- Abrir Git bash na pasta onde esta seu arquivo para o local já aparecer no Bash.Através do mouse
 clicando com lado direito,vá na opção here Git Bash.
 
-Passar o projeto para a máquina,vai no github,no projeto,copia o código em html,
-no git bash,insere o comando git clone e copia o link html do projeto.
-comando git status vê o status do arquivo.Comando git add -A para adicionar arquivo
+##4- Comando git add -A para adicionar arquivo
 novo da máquina para o github.Definir um ponto de verificação 
-no processo com git commit -m "Insere o comentário".Comando git push origin main envia todos os arquivos
+no processo com git commit -m "Insere o comentário".
+
+##5- Comando git push origin main envia todos os arquivos
 para nuvem.
 
 
